@@ -1,8 +1,8 @@
-#VM Setup
+# VM Setup
 
 **VMs to create:** Windows 10, Splunk, Kali, n8n instance
 
-###Actions
+### Actions
 Created four virtual machines.  
 ![Image](../docs/snapshots/vm-setup.png)
 
