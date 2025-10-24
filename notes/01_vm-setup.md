@@ -4,9 +4,9 @@
 
 ### Actions
 Created four virtual machines.  
-1. coob-windows-10
-2. coob-splunk
-3. coob-n8n-vm
+1. `coob-windows-10`
+2. `coob-splunk`
+3. `coob-n8n-vm`
 ![Image](../docs/snapshots/vm-setup.PNG)
 
 Connected to the `coob-splunk` VM on my local machine with:

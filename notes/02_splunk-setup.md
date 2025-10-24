@@ -39,4 +39,4 @@ Enabled Splunk auto start:
 ```bash
 sudo ./splunk enable boot-start -user splunk
 ```
-Then connected to the **coob-splunk** vm using the vm's IP and port number.
+Then connected to the `coob-splunk` vm using the vm's IP and port number.
