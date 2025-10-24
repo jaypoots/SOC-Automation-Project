@@ -1,5 +1,6 @@
 # n8n Docker Setup
 
+### Actions:
 Connected to `coob-n8n-vm` from local machine via SSH.  
 Installed Docker:
 ```bash

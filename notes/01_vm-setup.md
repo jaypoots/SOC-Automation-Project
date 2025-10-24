@@ -2,7 +2,7 @@
 
 **VMs to create:** Windows 10, Splunk, Kali, n8n instance
 
-### Actions
+### Actions:
 Created four virtual machines.  
 1. `coob-windows-10`
 2. `coob-splunk`

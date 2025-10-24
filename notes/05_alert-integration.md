@@ -1,5 +1,6 @@
 # Splunk Alert Integration with n8n
  
+### Actions:
 Created alert in Splunk to ensure n8n webhook can catch it.  
 
 ---

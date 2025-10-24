@@ -1,5 +1,6 @@
 # OpenAI and Slack Integration
-  
+
+### Actions:
 Created automation workflow in n8n.  
 - Added **OpenAI Message Model**
 - Connected OpenAI account with n8n

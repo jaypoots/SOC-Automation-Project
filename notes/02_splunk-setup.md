@@ -1,6 +1,6 @@
 # Splunk Setup
 
-### Actions
+### Actions:
 Documented IP addresses for VMs.
 On Windows 10 VM, enabled Remote Desktop.
 Connected from local machine to test RDP access.

@@ -1,6 +1,6 @@
 # Windows Telemetry Forwarder Setup
 
-### Actions
+### Actions:
 Set listening port to 9997.
 Created new index called `coob-project`
 Installed Splunk Add-on for Microsoft Windows.
@@ -15,7 +15,7 @@ Downloaded Splunk Universal Forwarder in `coob-windows-10`.
 
 In `SplunkUniversalForwarder/etc/system/local`, the `inputs.conf` file was missing.  
 Downloaded it so `coob-windows-10` can send telemetry to Splunk.  
-![Image](../docs/snapshots/inputs.PNG)
+![Image](../docs/snapshots/Splunk-inputs.PNG)
 
 ---
 
