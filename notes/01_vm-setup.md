@@ -4,7 +4,7 @@
 
 ### Actions
 Created four virtual machines.  
-![Image](../docs/snapshots/vm-setup.png)
+![Image](../docs/snapshots/vm-setup.PNG)
 
 Connected to the `coob-splunk` VM on my local machine with:
 ```bash
